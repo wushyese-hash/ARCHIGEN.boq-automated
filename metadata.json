@@ -1,0 +1,6 @@
+{
+  "name": "HAYMI CAD / ARCHIGEN Automated BoQ Engine",
+  "description": "An AI-powered software that analyzes construction drawing PDFs to generate Bill of Quantities (BQ) based on the Ethiopian Building Code Standard (EBCS) with multilingual support, featuring the HAYMI CAD / ARCHIGEN automated engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
